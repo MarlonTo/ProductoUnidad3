@@ -153,6 +153,8 @@ El color verde (2): Destinados a conexión para UART para puerto serie convencio
 El color morado (5): Comunicación mediante el protocolo SPI (Es un protocolo síncrono, el cual sincroniza y transmite datos  por medio de 4 señales).
  
  ![](IMG/gpio.jpg)
+ 
+  ![](IMG/grande.png)
 
 
 ### Create.withcode.uk online
@@ -162,6 +164,8 @@ Create.withcode.uk es un editor de python en línea que le permite escribir, eje
 Todos los recursos en este sitio se publican bajo la licencia Creative Commons de uso compartido, lo que significa que puede usar cualquier cosa aquí para cualquier propósito, siempre y cuando me haga referencia como autor original. Sin embargo, hasta ahora, aunque create.withcode.uk ha sido de uso gratuito, el código fuente que lo hace funcionar no ha estado disponible de forma abierta.
 
 Create.withcode.uk ahora es de código abierto. Esto significa que si puede pensar en una forma de mejorar el editor de Python o detecta un error que necesita reparación, no tiene que esperar a que lo codifique: puede saltar y adaptarlo / ampliarlo / mejorarlo te gusta. Puedes usarlo libremente para tus propios proyectos.
+
+ ![](IMG/cre.PNG)
 
 #### Prestaciones
 
