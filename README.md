@@ -211,7 +211,51 @@ Create.withcode.uk ahora es de código abierto. Esto significa que si puede pens
 
 ## 9. EXPLICACION DEL CODIGO FUENTE
 
+### Programa de la Alarma
 
+Se quiere realizar un circuito para activar la alarma de incendios (A) para la evacuación de un edificio.
+Para ello se tiene un sensor de gases (G), un sensor de humos (H), y dos señales procedentes de un
+termómetro que indican si la temperatura es mayor de 45ºC (T45) y si la temperatura es mayor de 60ºC
+(T60). Debido a que a veces los sensores detectan humos y gases que no siempre proceden de
+incendios (por ejemplo, de los cigarrillos o las cocinas), para evitar falsas alarmas, la señal A se
+activará cuando se cumplan las siguientes condiciones:
+
+a. Si la temperatura es mayor de 60ºC siempre se activará la alarma
+
+b. Si la temperatura está entre 45ºC y 60ºC se activará la alarma sólo si han detectado gases o
+humos (o ambos).
+
+c. Si la temperatura es menor de 45ºC se activará la alarma sólo si se detectan gases y humos
+
+Resumiendo, las 4 señales binarias de entrada y la salida:
+
+• G: vale '1' si se detecta GAS resultante de la combustión.
+
+• H: vale '1' si se detecta HUMO.
+
+• T45: vale '1' si la temperatura es superior a 45ºC
+
+• T60: vale '1' si la temperatura es superior a 60ºC
+
+La señal de salida A (alarma) se activará a nivel alto
+
+REQUERIMIENTOS.
+
+• Se debe implementar los 2 enunciados empleando Python y simulado en una Raspberry Pi.
+
+• No se debe ingresar datos por consola.
+
+• El programa debe presentar en pantalla información relacionada a lo que se está realizando.
+
+• Se debe emplear conceptos de POO.
+
+• Cada enunciado se implementará en una clase con sus funciones.
+
+• Se debe emplear un programa de selección (clase) que permita seleccionar la ejecución de los
+programas.
+
+• El programa principal crear objetos de cada clase y llamar a las funciones que correspondan para que
+opera la lógica de negocio del problema.
 
 ## 10. CONCLUSIONES
 
