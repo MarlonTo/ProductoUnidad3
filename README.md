@@ -92,6 +92,9 @@ Atributos, identidad, relaciones y métodos.
 #### Identificación de un objeto
 
 Un objeto se representa por medio de una tabla o entidad que esté compuesta por sus atributos y funciones correspondientes.
+
+
+![](IMG/oop.png)
  
 ### RASPBERRY PI
  
@@ -122,6 +125,8 @@ Los componentes de la Raspberry Pi son:
 ●	Lector de tarjetas SD
  
 (Yamanoor, Narasimha Saii,Yamanoor, 2013)
+
+![](IMG/ras.jpg)
  
 ### Puerto GPIO de la  RASPBERRY PI
  
@@ -147,7 +152,7 @@ El color verde (2): Destinados a conexión para UART para puerto serie convencio
  
 El color morado (5): Comunicación mediante el protocolo SPI (Es un protocolo síncrono, el cual sincroniza y transmite datos  por medio de 4 señales).
  
- ![](IMG/esquema-pines-gpio.png)
+ ![](IMG/gpio.jpg)
 
 
 ### Create.withcode.uk online
@@ -247,7 +252,9 @@ Create.withcode.uk ahora es de código abierto. Esto significa que si puede pens
  
 ## 14. ANEXOS
 
-![](IMG/pi_board_pinout.jpg)
+![](IMG/222.jpg)
+
+![](IMG/data.png)
 
 
 
