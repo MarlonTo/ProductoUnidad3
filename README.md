@@ -259,13 +259,16 @@ opera la lógica de negocio del problema.
 
 ## 10. CONCLUSIONES
 
-- La página https://create.withcode.uk/ la cual puedes crea funciones para ingresar y sacar datos, tiene muchas limitaciones de varias librerías y una de esas es la de librería SYS..
- 
-- Los nodos que nos ofrece NODE-RED son muy diversos, para poder tener otros nodos de los que vienen por determinado, se tienen que descargar. Pero no solo podemos encontrar nodos hechos por la misma plataforma, también podemos encontrar nodos hechos por usuarios, pero a veces estoy no están del todo bien hechos.
 
-- En conclusión, podemos determinar que node red nos brinda una interfaz gráfica la cual, es amigable para el usuario inclusive para el desarrollo y el diseño del mismo al crear una dashboard debido a que se posee una lista de varios widgets preestablecidos los cuales se los puede  utilizar por la conexión entre nodos de entrada (bottom, dropdown,switch,color picker) lo que vamos a programar y los modos de salida (text, notification, audio out, gauge, chart) que vienen hacer lo que el usuario tiende a visualizar ;cada uno de estos posee parámetros en su configuración, en esta ocasión, se tomaron en cuenta los parámetros de label el cuál va a ser el nombre de nuestro nodo, playload que va a indicar la función que va a cumplir, range el cual crea un rango determinando los valores mínimos y máximos, graphics y colour.
+- Python nos permite como programadores  formar un codigo simple y ordenado. Sus aplicaciones, tanto en la comunidad docente como
+en la científica, le permitirán aumentar su popularidad y adopción a nivel internacional. Sin mencionar que gracias a sus librerias nos permiten la interaccion de muychos apratados, como lo fue en este proyecto con la raspberry pi.
 
-- También podemos decir que la herramienta node red es muy potente y sirve para comunicar el hardware y los servicios de una forma rápida y sencilla simplificando en gran manera la programación del mismo; finalmente, se cumplió nuestro objetivo mediante la elaboración de un proyecto en dashboard el cual es el panel de una casa interactiva el cual era mostrar las elaboración un na dashboard.
+- El futuro de la tecnología es muy prometedor pero necesitamos hacer un esfuerzo. Raspberry Pi está pensado para que todo el mundo pueda aprender a programar y sea capaz de introducirse en las ciencias de la computación.
+
+- La página https://create.withcode.uk/ la cual puedes crea funciones para ingresar y sacar datos, tiene muchas limitaciones de varias librerías y una de esas es la de librería SYS. 
+
+
+
 
 
  
