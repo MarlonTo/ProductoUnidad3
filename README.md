@@ -319,3 +319,6 @@ en la científica, le permitirán aumentar su popularidad y adopción a nivel in
  
 ## 15. MANUAL DE USUARIO
 
+Abrimos La página https://create.withcode.uk/ en la cual podremos escribir nuestro codigo, una vez terminado nuestro codigo, tendremos que hacer un click en en la imagen de una triangulo "play" y el progrma automaticamente lo correra.
+
+![](IMG/2.PNG)
