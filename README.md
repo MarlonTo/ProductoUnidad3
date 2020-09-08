@@ -199,16 +199,19 @@ Create.withcode.uk ahora es de código abierto. Esto significa que si puede pens
  
 ## 7. MAPA DE VARIABLES
 
+### Programa de la Alarma
 
  ![](IMG/IMG.JPG)
 
+### Programa de  riego automático
 
 
 
 ## 8. APORTACIONES
 
+### Programa de la Alarma
 
-
+### Programa de  riego automático
 
 
 ## 9. EXPLICACION DEL CODIGO FUENTE
@@ -272,7 +275,7 @@ en la científica, le permitirán aumentar su popularidad y adopción a nivel in
 - La página https://create.withcode.uk/ la cual puedes crea funciones para ingresar y sacar datos, tiene muchas limitaciones de varias librerías y una de esas es la de librería SYS. 
 
 
-
+### Programa de  riego automático
 
 
  
