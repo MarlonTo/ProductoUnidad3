@@ -264,16 +264,6 @@ programas.
 • El programa principal crear objetos de cada clase y llamar a las funciones que correspondan para que
 opera la lógica de negocio del problema.
 
-## 10. CONCLUSIONES
-
-
-- Python nos permite como programadores  formar un codigo simple y ordenado. Sus aplicaciones, tanto en la comunidad docente como
-en la científica, le permitirán aumentar su popularidad y adopción a nivel internacional. Sin mencionar que gracias a sus librerias nos permiten la interaccion de muychos apratados, como lo fue en este proyecto con la raspberry pi.
-
-- El futuro de la tecnología es muy prometedor pero necesitamos hacer un esfuerzo. Raspberry Pi está pensado para que todo el mundo pueda aprender a programar y sea capaz de introducirse en las ciencias de la computación.
-
-- La página https://create.withcode.uk/ la cual puedes crea funciones para ingresar y sacar datos, tiene muchas limitaciones de varias librerías y una de esas es la de librería SYS. 
-
 
 ### Programa de  riego automático
 
@@ -288,6 +278,19 @@ iii. En el resto del año (si no hay restricciones) se podrá regar de día y de
 tierra está seca)
 
 Una vez realizadas las condiciones se creará un apartado principal y se iniciará con un güey que permitirá hacer un bucle se colocará las funciones que muestren la condición y las variables.
+
+
+## 10. CONCLUSIONES
+
+
+- Python nos permite como programadores  formar un codigo simple y ordenado. Sus aplicaciones, tanto en la comunidad docente como
+en la científica, le permitirán aumentar su popularidad y adopción a nivel internacional. Sin mencionar que gracias a sus librerias nos permiten la interaccion de muychos apratados, como lo fue en este proyecto con la raspberry pi.
+
+- El futuro de la tecnología es muy prometedor pero necesitamos hacer un esfuerzo. Raspberry Pi está pensado para que todo el mundo pueda aprender a programar y sea capaz de introducirse en las ciencias de la computación.
+
+- La página https://create.withcode.uk/ la cual puedes crea funciones para ingresar y sacar datos, tiene muchas limitaciones de varias librerías y una de esas es la de librería SYS. 
+
+
 
 
 
