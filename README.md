@@ -200,6 +200,8 @@ Create.withcode.uk ahora es de código abierto. Esto significa que si puede pens
 ## 7. MAPA DE VARIABLES
 
 
+ ![](IMG/IMG.JPG)
+
 
 
 
@@ -210,6 +212,8 @@ Create.withcode.uk ahora es de código abierto. Esto significa que si puede pens
 
 
 ## 9. EXPLICACION DEL CODIGO FUENTE
+
+
 
 ### Programa de la Alarma
 
