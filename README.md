@@ -195,11 +195,7 @@ Create.withcode.uk ahora es de código abierto. Esto significa que si puede pens
 - Computador
 - Python
 
-#### Implementación de una interfaz HMI en NODE-RED
 
-- Internet
-
-- Computador
  
 ## 7. MAPA DE VARIABLES
 
@@ -314,17 +310,13 @@ Una vez realizadas las condiciones se creará un apartado principal y se iniciar
  
  ## 13.BIBLIOGRAFÍA:
 
-- Rupil, A. C., & García Mattío, M. (2019). Node-red, conectando cosas, apis y servicios en línea.
+- Brand, I., Roy, J., Ray, A., Oberlin, J., & Oberlix, S. (2018, October). Pidrone: An autonomous educational drone using raspberry pi and python. In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 1-7). IEEE.
 
-- Sánchez, M., Barrena, M., Bustos, P., Campillo, C., & García, P. (2016). Arquitectura software basada en tecnologías smart para agricultura de precisión. Jornadas de Ingeniería del Software y Bases de Datos.
+- Otero, P. G. (2020). EQUIPO DE ADQUISICIÓN DE AUDIO MULTICANAL USANDO RASPBERRY PI Y PYTHON. Revista Telemática, 19(1), 48-60.
 
-- Oliphant, T. E. (2007). Python for scientific computing. Computing in Science & Engineering, 9(3), 10-20.
+- Martín Montero, A. (2018). Programación y control de un reloj de tiempo real con Raspberry Pi.
 
-- Blackstock, M., & Lea, R. (2014, October). Toward a distributed data flow platform for the web of things (distributed node-red). In Proceedings of the 5th International Workshop on Web of Things (pp. 34-39).
-
-- Lekić, M., & Gardašević, G. (2018, March). IoT sensor integration to Node-RED platform. In 2018 17th International Symposium INFOTEH-JAHORINA (INFOTEH) (pp. 1-5). IEEE.
-
--Tabaa, M., Chouri, B., Saadaoui, S., & Alami, K. (2018). Industrial communication based on modbus and node-RED. Procedia computer science, 130, 583-588.
+- Tobajas García, A. (2016). Diseño e implementación de una estación meteorológica con Raspberry Pi.
  
  
 ## 14. ANEXOS
