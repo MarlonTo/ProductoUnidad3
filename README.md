@@ -180,7 +180,11 @@ Create.withcode.uk ahora es de código abierto. Esto significa que si puede pens
 
 ## 5. DIAGRAMAS
 
-![](IMG/pi_board_pinout.jpg)
+ ![](IMG/dia1.jpg)
+
+
+ ![](IMG/dia2.png)
+
 
 ## 6. LISTA DE COMPONENTES 
 
@@ -204,6 +208,8 @@ Create.withcode.uk ahora es de código abierto. Esto significa que si puede pens
  ![](IMG/IMG.JPG)
 
 ### Programa de  riego automático
+
+ ![](IMG/variabes2.PNG)
 
 
 
