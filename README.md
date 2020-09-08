@@ -167,16 +167,7 @@ Create.withcode.uk ahora es de código abierto. Esto significa que si puede pens
 
  ![](IMG/cre.PNG)
 
-#### Prestaciones
 
-> Autoevaluación de pruebas de python que se integran con moodle
-
-> Crea juegos y objetos en 3D usando python
-
-> Cuestionarios interactivos de python que se integran con moodle
-
-
-![](IMG/2.PNG)
 
 ## 5. DIAGRAMAS
 
