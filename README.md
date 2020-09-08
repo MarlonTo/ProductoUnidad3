@@ -277,6 +277,19 @@ en la científica, le permitirán aumentar su popularidad y adopción a nivel in
 
 ### Programa de  riego automático
 
+Este programa deseaba hacer un circuito que permitirá realizar un riego automático para ello primero se creó una clase dentro de esta clase se definió las funciones las funciones vienen hacer las entradas del enunciado del problema tenemos la señal de tierra seca la señal de restricciones la señal que indica si es de día o de noche la señal que indica si el depósito de agua está vacío o lleno una vez definidas las funciones c añadió que no una de ellas a un pin del arroz pero que viene a ser la entrada mientras que la salida viene a ser el funcionamiento de la bomba para las condiciones se utilizó funciones if-else y dependiendo la condición que nos arrojaba en el enunciado se la aplican estas condiciones serán :
+
+i. Para evitar que la bomba se estropee por funcionar en vacío, nunca se accionará la
+bomba cuando el depósito de agua esté vacío.
+
+ii. Si hay restricciones en el riego (época de verano), sólo se podrá regar de noche.
+
+iii. En el resto del año (si no hay restricciones) se podrá regar de día y de noche (si la
+tierra está seca)
+
+Una vez realizadas las condiciones se creará un apartado principal y se iniciará con un güey que permitirá hacer un bucle se colocará las funciones que muestren la condición y las variables.
+
+
 
  
 ## 11.RECOMENDACIONES
