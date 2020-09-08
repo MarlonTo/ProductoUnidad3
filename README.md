@@ -211,9 +211,16 @@ Create.withcode.uk ahora es de código abierto. Esto significa que si puede pens
 
 ## 8. APORTACIONES
 
-### Programa de la Alarma
 
-### Programa de  riego automático
+Otra forma de resolver el ejercicio de El riego automático es por medio de compuertas lógicas o circuitos integrados para ello lo que primero se realizará son las tablas de verdad aplicando las condiciones que nos muestra el ejercicio obteniendo el siguiente resultado.
+
+ ![](IMG/1.PNG)
+
+Una vez seleccionado los apartados donde se cumple el problema se procederá a simplificar esto se le puede realizar utilizando un software online obteniendo el siguiente resultado
+
+ ![](IMG/2.PNG)
+ 
+  ![](IMG/3.PNG)
 
 
 ## 9. EXPLICACION DEL CODIGO FUENTE
@@ -317,6 +324,8 @@ Una vez realizadas las condiciones se creará un apartado principal y se iniciar
 - Martín Montero, A. (2018). Programación y control de un reloj de tiempo real con Raspberry Pi.
 
 - Tobajas García, A. (2016). Diseño e implementación de una estación meteorológica con Raspberry Pi.
+
+- http://lab1electronicaanalogica.blogspot.com/2018/03/lab-2-de-electronica-digital.html
  
  
 ## 14. ANEXOS
