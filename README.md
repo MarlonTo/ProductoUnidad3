@@ -216,6 +216,7 @@ Una vez seleccionado los apartados donde se cumple el problema se procederá a s
 
 ## 9. EXPLICACION DEL CODIGO FUENTE
 
+  ![](IMG/aux2.PNG)
 
 
 ### Programa de la Alarma
@@ -263,6 +264,9 @@ programas.
 
 • El programa principal crear objetos de cada clase y llamar a las funciones que correspondan para que
 opera la lógica de negocio del problema.
+
+
+  ![](IMG/aux1.PNG)
 
 
 ### Programa de  riego automático
